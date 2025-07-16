@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @eidankhan
-- 👀 I’m interested in code, system analysis, java, databases, and SQL
-- 🌱 I’m currently working on Spring Boot, Reacts JS, and Microservices
-- 💞️ I’m looking to collaborate on Java, SQL, JavaScript, and Databases
-- 📫 How to reach me ? eidan.khan659@gmail.com
+## Hi 👋, I'm Eidan  
+🎓 MSc in Computer Science | 💼 Freelancer @ Fiverr  
+🌍 Living in the UK, planning relocation to Spain 🇪🇸  
+🧠 Passionate about clean documentation, reproducible workflows & AI-powered learning
 
-<!---
-eidankhan/eidankhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 Ask me about:  
+- Spring Boot Microservices, React.js  
+- Prompt engineering for technical content  
+- Git version control & README.md branding  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/eidancodez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eidancodez" height="30" width="40" /></a>
+<a href="https://medium.com/@iamkhan65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamkhan65" height="30" width="40" /></a>
+</p>
+
+
+💬 I love building systems that make learning easier, faster, and beautiful.  
+🚀 Let’s turn complexity into clarity—one commit at a time.
