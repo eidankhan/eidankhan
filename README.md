@@ -24,3 +24,6 @@
 
 💬 I love building systems that make learning easier, faster, and beautiful.  
 🚀 Let’s turn complexity into clarity—one commit at a time.
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidankhan&show_icons=true&locale=en&layout=compact" alt="poojakumari11228" /></p>
