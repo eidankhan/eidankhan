@@ -1,6 +1,10 @@
-## Hi 👋, I'm Eidan  
+<h1 align="center">Hi 👋, I'm Eidan Khan</h1>
+<h3 align="center">⭐ Open to Visa-Sponsored Software Engineering Roles in the UK  </h3>
+<h3 align="center"> Software Engineer 👩‍💻</h3>
+
 🎓 MSc in Computer Science | 💼 Freelancer @ Fiverr  
-🌍 Living in the UK, planning relocation to Spain 🇪🇸  
+🌍 Available for Remote Opportunities Across Europe & Globally  
+📍 Currently Based in the UK  
 🧠 Passionate about clean documentation, reproducible workflows & AI-powered learning
 
 📚 Ask me about:  
