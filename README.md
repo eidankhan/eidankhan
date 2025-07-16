@@ -2,7 +2,9 @@
 <h3 align="center">⭐ Open to Visa-Sponsored Software Engineering Roles in the UK  </h3>
 <h3 align="center"> Software Engineer 👩‍💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eidankhan" alt="eidankhan" /></a> </p>
+<p align="left"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=eidankhan" alt="eidankhan" />
+</p>
 
 🎓 MSc in Computer Science | 💼 Freelancer @ Fiverr  
 🌍 Available for Remote Opportunities Across Europe & Globally  
