@@ -18,9 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eidancodez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eidancodez" height="30" width="40" /></a>
-<a href="https://medium.com/@iamkhan65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamkhan65" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/codepilothub" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png" alt="@codepilothub" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/eidancodez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eidancodez" height="30" width="40" /></a>
+    <a href="https://medium.com/@iamkhan65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamkhan65" height="30" width="40" /></a>
+    <a href="https://www.fiverr.com/codepilothub" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png" alt="@codepilothub" height="40" width="40" />
+        <a href="https://www.fiverr.com/codepilothub" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.-WyFwwAI9OGSS8_VOlwg3QHaFj?w=238&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="@codepilothub" height="40" width="40" />
+    </a>
+    </a>
 </p>
 
 
