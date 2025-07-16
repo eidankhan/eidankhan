@@ -3,7 +3,7 @@
 <h3 align="center"> Software Engineer 👩‍💻</h3>
 
 <p align="left"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=eidankhan" alt="eidankhan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=eidankhan&theme=onedark" alt="eidankhan" />
 </p>
 
 🎓 MSc in Computer Science | 💼 Freelancer @ Fiverr  
