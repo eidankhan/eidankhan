@@ -3,7 +3,7 @@
 <h3 align="center"> Software Engineer 👩‍💻</h3>
 
 <p align="left"> <a href="https://github.com/eidankhan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eidankhan" alt="eidankhan" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?eidankhan=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 🎓 MSc in Computer Science | 💼 Freelancer @ Fiverr  
 🌍 Available for Remote Opportunities Across Europe & Globally  
 📍 Currently Based in the UK  
