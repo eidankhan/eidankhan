@@ -2,10 +2,6 @@
 <h3 align="center">⭐ Open to Visa-Sponsored Software Engineering Roles in the UK  </h3>
 <h3 align="center"> Software Engineer 👩‍💻</h3>
 
-<p align="left"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=eidankhan&theme=onedark" alt="eidankhan" />
-</p>
-
 🎓 MSc in Computer Science | 💼 Freelancer @ Fiverr  
 🌍 Available for Remote Opportunities Across Europe & Globally  
 📍 Currently Based in the UK  
@@ -70,4 +66,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidankhan&show_icons=true&locale=en&layout=compact" alt="poojakumari11228" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eidankhan&show_icons=true&locale=en&layout=compact" alt="derekyuan1000" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eidankhan&show_icons=true&locale=en" alt="derekyuan1000" /></p>
