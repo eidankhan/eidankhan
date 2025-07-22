@@ -2,6 +2,9 @@
 <h3 align="center">⭐ Open to Visa-Sponsored Software Engineering Roles in the UK  </h3>
 <h3 align="center"> Software Engineer 👩‍💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eidankhan&label=My%20Profile%20Visitors&color=0e75b6&style=flat" alt="vidhi86" /> </p>
+
+
 🎓 MSc in Computer Science | 💼 Freelancer @ Fiverr  
 🌍 Available for Remote Opportunities Across Europe & Globally  
 📍 Currently Based in the UK  
