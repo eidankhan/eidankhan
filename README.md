@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Eidan Khan</h1>
-<h3 align="center">⭐ Open to Visa-Sponsored Software Engineering Roles in the UK  </h3>
-<h3 align="center"> Software Engineer 👩‍💻</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Hi+👋+,+I+am+Eidan+Khan;Software+Engineer+👩‍💻" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eidankhan&label=My%20Profile%20Visitors&color=0e75b6&style=flat" alt="vidhi86" /> </p>
 
